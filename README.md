@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm R. Rana</h1>
-<h3 align="center">A passionate Desktop and Web Developer from Bangladesh</h3>
+<h3 align="center">A passionate Desktop and Web App Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaswe2&label=Profile%20views&color=0e75b6&style=flat" alt="ranaswe2" /> </p>
 
