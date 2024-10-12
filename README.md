@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/rs_rana)
 
-- 🌱 I’m currently learning **Laravel**
+#- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **ranaswe2@gmail.com**
 
