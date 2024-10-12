@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranaswe2" alt="ranaswe2" /></a> </p>
 
-- 🔭 I’m currently working on [Fiverr](https://www.fiverr.com/rs_rana)
-
-#- 🌱 I’m currently learning **Laravel**
-
 - 📫 How to reach me **ranaswe2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
